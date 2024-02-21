@@ -8,4 +8,4 @@
 
 ### How to reach me:
 
-[<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />]
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
